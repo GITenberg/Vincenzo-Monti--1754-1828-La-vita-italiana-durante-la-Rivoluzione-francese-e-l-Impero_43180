@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42055'
     url: http://www.gutenberg.org/2009/agents/42055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43180#Vincenzo-Monti--1754-1828-La-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-07-10'
 gutenberg_type: Text
